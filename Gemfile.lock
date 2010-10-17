@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    pdfkit-amd64 (0.9.9)
+      pdfkit
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    pdfkit (0.4.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  pdfkit
+  pdfkit-amd64!
